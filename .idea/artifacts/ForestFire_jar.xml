@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ForestFire:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ForestFire_jar</output-path>
+    <root id="archive" name="ForestFire.jar">
+      <element id="module-output" name="ForestFire" />
+    </root>
+  </artifact>
+</component>
